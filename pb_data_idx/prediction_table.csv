@@ -1,0 +1,38 @@
+[
+    {
+        "Dataset":"Assist2009",
+        "Acc":0.76591,
+        "Auc":0.82276,
+        "Number of Skills":123
+    },
+    {
+        "Dataset":"Assist2009_Concept_Nodes_Subset",
+        "Acc":0.79569,
+        "Auc":0.86123,
+        "Number of Skills":78
+    },
+    {
+        "Dataset":"Assist2012",
+        "Acc":0.73408,
+        "Auc":0.7307,
+        "Number of Skills":265
+    },
+    {
+        "Dataset":"Assist2012_Concept_Nodes_Subset",
+        "Acc":0.76624,
+        "Auc":0.71971,
+        "Number of Skills":37
+    },
+    {
+        "Dataset":"Assist2017",
+        "Acc":0.68676,
+        "Auc":0.71692,
+        "Number of Skills":102
+    },
+    {
+        "Dataset":"Assist2017_Concept_Nodes_Subset",
+        "Acc":0.6802,
+        "Auc":0.71564,
+        "Number of Skills":28
+    }
+]
