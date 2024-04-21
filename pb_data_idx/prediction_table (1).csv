@@ -1,0 +1,56 @@
+[
+    {
+        "Dataset":"2009_Fullset",
+        "Acc":0.76591,
+        "Auc":0.82276,
+        "Number of Skills":123
+    },
+    {
+        "Dataset":"2009_CN_Subset",
+        "Acc":0.79569,
+        "Auc":0.86123,
+        "Number of Skills":78
+    },
+    {
+        "Dataset":"2009_PB_Subset",
+        "Acc":0.83408,
+        "Auc":0.89109,
+        "Number of Skills":48
+    },
+    {
+        "Dataset":"2012_Fullset",
+        "Acc":0.73408,
+        "Auc":0.7307,
+        "Number of Skills":265
+    },
+    {
+        "Dataset":"2012_CN_Subset",
+        "Acc":0.76624,
+        "Auc":0.71971,
+        "Number of Skills":37
+    },
+    {
+        "Dataset":"2012_PB_Subset",
+        "Acc":0.76713,
+        "Auc":0.72367,
+        "Number of Skills":23
+    },
+    {
+        "Dataset":"2017_Fullset",
+        "Acc":0.68676,
+        "Auc":0.71692,
+        "Number of Skills":102
+    },
+    {
+        "Dataset":"2017_CN_Subset",
+        "Acc":0.6802,
+        "Auc":0.71564,
+        "Number of Skills":28
+    },
+    {
+        "Dataset":"2017_PB_Subset",
+        "Acc":0.69279,
+        "Auc":0.73146,
+        "Number of Skills":14
+    }
+]

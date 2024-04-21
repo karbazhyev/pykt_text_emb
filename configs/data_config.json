@@ -62,8 +62,8 @@
     },
     "assist2009": {
         "dpath": "../data/assist2009",
-        "num_q": 10652,
-        "num_c": 76,
+        "num_q": 5318,
+        "num_c": 36,
         "input_type": [
             "questions",
             "concepts"
@@ -118,8 +118,8 @@
     },
     "assist2017": {
         "dpath": "../data/assist2017",
-        "num_q": 1862,
-        "num_c": 28,
+        "num_q": 538,
+        "num_c": 14,
         "input_type": [
             "questions",
             "concepts"
@@ -150,8 +150,8 @@
     },
     "assist2012": {
         "dpath": "../data/assist2012",
-        "num_q": 3781,
-        "num_c": 37,
+        "num_q": 11821,
+        "num_c": 23,
         "input_type": [
             "questions",
             "concepts"

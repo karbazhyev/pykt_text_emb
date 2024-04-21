@@ -5,17 +5,19 @@ import sys
 import numpy as np
 from pykt.models import init_model
 from pykt.models.dkt import DKT  # Ensure this import matches your model’s location
+import json
+
 # Paths
 
 #2009 Subset
 # model_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2009_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_61b18c72-7a08-4f47-abac-517f2de6b3df/qid_model.ckpt'
 # config_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2009_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_61b18c72-7a08-4f47-abac-517f2de6b3df/config.json'
-# keyid2idx_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2009/keyid2idx.json'
+# keyid2idx_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2009_subset_problem_bodies/keyid2idx.json'
 
 #2017 Subset
-# config_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e7d4fccf-ae92-4a29-b752-8a14fb98d181/config.json'
-# model_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e7d4fccf-ae92-4a29-b752-8a14fb98d181/qid_model.ckpt'
-# keyid2idx_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2017/keyid2idx.json'
+config_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e7d4fccf-ae92-4a29-b752-8a14fb98d181/config.json'
+model_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e7d4fccf-ae92-4a29-b752-8a14fb98d181/qid_model.ckpt'
+keyid2idx_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2017_subset_problem_bodies/keyid2idx.json'
 
 #2012 Subset
 # config_path = '/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2012_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_1cddda95-5295-41c2-ba71-1b6257f173be/config.json'
@@ -33,9 +35,9 @@ from pykt.models.dkt import DKT  # Ensure this import matches your model’s loc
 # keyid2idx_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2012_fulldataset/keyid2idx.json'
 
 #2017 Fullset
-config_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e43dc05e-49bd-4c7e-a3c1-62006facfbf9/config.json'
-model_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e43dc05e-49bd-4c7e-a3c1-62006facfbf9/qid_model.ckpt'
-keyid2idx_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2017_full_dataset2/keyid2idx.json'
+# config_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e43dc05e-49bd-4c7e-a3c1-62006facfbf9/config.json'
+# model_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2017_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_e43dc05e-49bd-4c7e-a3c1-62006facfbf9/qid_model.ckpt'
+# keyid2idx_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/data/assist2017_full_dataset2/keyid2idx.json'
 
 #2015 Fullset
 # config_path = 'C:/Users/kevin/Documents/GitHub/pykt-toolkit-pt_emb/examples/saved_model/assist2015_dkt_qid_saved_model_42_0_0.2_200_0.001_1_1_4a0d3a8d-4e88-42a1-a6de-08b815fe62c9/config.json'
@@ -147,7 +149,7 @@ for idx, concept_id in enumerate(keys):
 
 G = nx.DiGraph(adjacency_list)
 
-print(adjacency_list)
+# print(adjacency_list)
 
 num_nodes = G.number_of_nodes()
 num_edges = G.number_of_edges()
@@ -164,3 +166,12 @@ plt.show()
 
 nodes_with_degree_greater_than_one = [node for node, degree in G.degree() if degree >= 1]
 print(nodes_with_degree_greater_than_one)
+
+#store adjacency list in json file
+# json_path = 'pb_data_idx/assist2009/2009_Fullset_DAG.json'  
+# with open(json_path, 'w') as json_file:
+#     json.dump(adjacency_list, json_file, indent=4)
+
+# print(f"Adjacency list has been saved to {json_path}.")
+
+
