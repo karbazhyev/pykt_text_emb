@@ -1,0 +1,430 @@
+question_concept_dict
+"{""1626"": ""rate-with-distance-and-time"", ""239"": ""pattern-finding"", ""232"": ""pattern-finding"", ""233"": ""pattern-finding"", ""234"": ""pattern-finding"", ""235"": ""pattern-finding"", ""236"": ""pattern-finding"", ""237"": ""pattern-finding"", ""238"": ""pattern-finding"", ""4525"": ""percents"", ""2149"": ""probability"", ""1516"": ""making-sense-of-expressions-and-equations"", ""2705"": ""equation-concept"", ""3522"": ""equation-solving"", ""865"": ""fraction-multiplication"", ""474"": ""algebraic-manipulation"", ""839"": ""scientific-notation"", ""4559"": ""area"", ""2289"": ""median"", ""1301"": ""area"", ""1031"": ""multiplying-decimals"", ""174"": ""area"", ""2274"": ""mean"", ""178"": ""reading-graph"", ""4667"": ""noskill"", ""1100"": ""reading-graph"", ""1306"": ""area"", ""968"": ""discount"", ""2249"": ""reading-graph"", ""1638"": ""equation-solving"", ""4669"": ""noskill"", ""2724"": ""interpreting-linear-equations"", ""2229"": ""scientific-notation"", ""4666"": ""noskill"", ""1059"": ""median"", ""3553"": ""algebraic-manipulation"", ""117"": ""square-root"", ""4421"": ""rate-with-distance-and-time"", ""215"": ""sum-of-interior-angles-triangle"", ""1218"": ""noskill"", ""862"": ""discount"", ""4468"": ""congruence"", ""4464"": ""congruence"", ""4465"": ""perimeter"", ""4466"": ""equation-solving"", ""4467"": ""congruence"", ""2267"": ""median"", ""988"": ""graph-shape"", ""984"": ""graph-shape"", ""985"": ""graph-shape"", ""986"": ""graph-shape"", ""987"": ""graph-shape"", ""936"": ""ordering-numbers"", ""4503"": ""probability"", ""1986"": ""equation-solving"", ""4458"": ""discount"", ""1167"": ""equation-solving"", ""1697"": ""inducing-functions"", ""1436"": ""equation-solving"", ""1989"": ""equation-solving"", ""223"": ""inducing-functions"", ""1597"": ""rate-with-distance-and-time"", ""166"": ""discount"", ""2730"": ""reading-graph"", ""991"": ""graph-shape"", ""120"": ""noskill"", ""4388"": ""unit-conversion"", ""5"": ""point-plotting"", ""964"": ""multiplying-decimals"", ""1647"": ""making-sense-of-expressions-and-equations"", ""1041"": ""reading-graph"", ""1037"": ""point-plotting"", ""1038"": ""point-plotting"", ""1040"": ""reading-graph"", ""2080"": ""probability"", ""894"": ""square-root"", ""677"": ""inducing-functions"", ""185"": ""triangle-inequality"", ""1648"": ""sum-of-interior-angles-triangle"", ""1541"": ""pythagorean-theorem"", ""9369"": ""pythagorean-theorem"", ""9370"": ""pythagorean-theorem"", ""1013"": ""graph-shape"", ""2209"": ""fraction-decimals-percents"", ""2205"": ""fraction-decimals-percents"", ""2206"": ""fraction-decimals-percents"", ""2207"": ""fraction-decimals-percents"", ""2208"": ""fraction-decimals-percents"", ""2719"": ""point-plotting"", ""1371"": ""noskill"", ""1653"": ""linear-area-volume-conversion"", ""1036"": ""n-number-sense-operations"", ""1503"": ""pythagorean-theorem"", ""1607"": ""algebraic-manipulation"", ""2063"": ""equivalent-fractions-decimals-percents"", ""1625"": ""evaluating-functions"", ""2698"": ""evaluating-functions"", ""2114"": ""probability"", ""1132"": ""unit-conversion"", ""1611"": ""equation-solving"", ""2068"": ""probability"", ""879"": ""discount"", ""2716"": ""interpreting-linear-equations"", ""2239"": ""median"", ""409"": ""order-of-operations"", ""789"": ""integers"", ""784"": ""ordering-numbers"", ""785"": ""integers"", ""786"": ""ordering-numbers"", ""787"": ""ordering-numbers"", ""788"": ""noskill"", ""4550"": ""properties-of-geometric-figures"", ""4547"": ""properties-of-geometric-figures"", ""4548"": ""properties-of-geometric-figures"", ""4549"": ""properties-of-geometric-figures"", ""2236"": ""mean"", ""997"": ""graph-shape"", ""436"": ""divide-decimals"", ""1159"": ""equation-concept"", ""136"": ""area"", ""2218"": ""finding-percents"", ""2084"": ""probability"", ""1002"": ""graph-shape"", ""74"": ""supplementary-angles"", ""4507"": ""probability"", ""61"": ""isosceles-triangle"", ""2077"": ""probability"", ""2101"": ""probability"", ""4486"": ""evaluating-functions"", ""1314"": ""transformations-rotations"", ""1285"": ""transformations-rotations"", ""853"": ""discount"", ""41"": ""square-root"", ""1619"": ""noskill"", ""1189"": ""discount"", ""1186"": ""discount"", ""1187"": ""discount"", ""1188"": ""discount"", ""912"": ""making-sense-of-expressions-and-equations"", ""248"": ""supplementary-angles"", ""4541"": ""interpreting-linear-equations"", ""2260"": ""mode"", ""564"": ""evaluating-functions"", ""2374"": ""equation-solving"", ""1674"": ""fractions"", ""1581"": ""combinatorics"", ""2264"": ""mean"", ""1613"": ""noskill"", ""980"": ""noskill"", ""4383"": ""equation-solving"", ""1650"": ""area-of-circle"", ""2244"": ""median"", ""1096"": ""reading-graph"", ""733"": ""inducing-functions""}"
+"{""1033"": ""n-number-sense-operations"", ""1032"": ""n-number-sense-operations"", ""1035"": ""n-number-sense-operations"", ""4418"": ""rate-with-distance-and-time"", ""933"": ""n-number-sense-operations"", ""934"": ""n-number-sense-operations"", ""935"": ""n-number-sense-operations"", ""1987"": ""equation-solving"", ""1988"": ""equation-solving"", ""863"": ""fraction-multiplication"", ""864"": ""fraction-multiplication"", ""2285"": ""stem-and-leaf-plot"", ""2286"": ""median"", ""2287"": ""median"", ""2288"": ""median"", ""850"": ""percent-of"", ""851"": ""discount"", ""852"": ""discount"", ""4500"": ""probability"", ""4501"": ""probability"", ""4502"": ""probability"", ""213"": ""supplementary-angles"", ""214"": ""sum-of-interior-angles-triangle"", ""9668"": ""making-sense-of-expressions-and-equations"", ""9669"": ""making-sense-of-expressions-and-equations"", ""3551"": ""algebraic-manipulation"", ""3552"": ""algebraic-manipulation"", ""2111"": ""least-common-multiple"", ""2112"": ""least-common-multiple"", ""2113"": ""least-common-multiple"", ""2245"": ""reading-graph"", ""2246"": ""reading-graph"", ""2247"": ""reading-graph"", ""2248"": ""reading-graph"", ""4668"": ""noskill"", ""4670"": ""noskill"", ""4671"": ""noskill"", ""4672"": ""noskill"", ""2074"": ""probability"", ""2075"": ""probability"", ""2076"": ""probability"", ""2702"": ""equation-concept"", ""2703"": ""equation-concept"", ""2704"": ""equation-concept""}"
+"{""960"": ""multiplication"", ""1215"": ""area"", ""1216"": ""proportion"", ""1217"": ""perimeter"", ""1218"": ""area"", ""1126"": ""application: isosceles triangle"", ""1127"": ""multiplication"", ""1186"": ""area"", ""1093"": ""square-root"", ""968"": ""subtraction"", ""964"": ""multiplication"", ""967"": ""multiplication"", ""962"": ""multiplication"", ""966"": ""multiplication"", ""963"": ""multiplication"", ""961"": ""multiplication"", ""965"": ""multiplication"", ""1311"": ""substitution"", ""1316"": ""substitution"", ""1317"": ""substitution"", ""1312"": ""substitution"", ""1313"": ""substitution"", ""1314"": ""substitution"", ""1297"": ""multiplication"", ""1318"": ""substitution"", ""233"": ""interpreting-numberline"", ""1301"": ""number-line"", ""1056"": ""evaluating-functions"", ""978"": ""order-of-operations"", ""979"": ""exponents"", ""980"": ""order-of-operations"", ""839"": ""least-common-multiple"", ""223"": ""inequality-solving""}"
+"{""2269"": ""mean"", ""2268"": ""mean"", ""2270"": ""mean"", ""4523"": ""percents"", ""4524"": ""percents"", ""16"": ""reading-graph"", ""860"": ""percent-of"", ""861"": ""percent-of"", ""788"": ""integers""}"
+"{""1166"": ""square-root"", ""984"": ""order-of-operations"", ""985"": ""exponents"", ""986"": ""order-of-operations"", ""987"": ""multiplication"", ""988"": ""order-of-operations"", ""1032"": ""evaluating-functions"", ""1033"": ""evaluating-functions"", ""1298"": ""multiplication"", ""1299"": ""multiplication"", ""1300"": ""multiplication"", ""1035"": ""evaluating-functions"", ""1036"": ""evaluating-functions"", ""1037"": ""evaluating-functions"", ""1305"": ""substitution"", ""1306"": ""substitution"", ""1435"": ""fraction-division"", ""1436"": ""fraction-division"", ""1319"": ""substitution""}"
+"{""433"": ""divide-decimals"", ""434"": ""symbolization-articulation"", ""435"": ""symbolization-articulation"", ""2237"": ""mean"", ""2238"": ""mean"", ""9612"": ""rate-with-distance-and-time"", ""9613"": ""rate-with-distance-and-time"", ""4483"": ""unit-conversion"", ""4484"": ""unit-conversion"", ""4485"": ""evaluating-functions"", ""2265"": ""median"", ""2266"": ""mean"", ""1006"": ""reading-graph"", ""2110"": ""probability""}"
+"{""1128"": ""multiplication"", ""1129"": ""multiplication"", ""1130"": ""multiplication"", ""1131"": ""multiplication"", ""1164"": ""multiplying-decimals"", ""1165"": ""multiplying-decimals"", ""1137"": ""venn-diagram"", ""1138"": ""percent-of"", ""1094"": ""square-root"", ""1095"": ""square-root"", ""1096"": ""square-root"", ""1097"": ""square-root"", ""1098"": ""square-root"", ""1099"": ""square-root"", ""1100"": ""square-root"", ""1285"": ""division"", ""1433"": ""algebraic-manipulation"", ""1434"": ""algebraic-manipulation"", ""1296"": ""addition"", ""1369"": ""point-plotting"", ""1370"": ""point-plotting"", ""1371"": ""point-plotting"", ""728"": ""discount"", ""729"": ""percent-of"", ""730"": ""percent-of"", ""731"": ""discount"", ""732"": ""discount"", ""785"": ""probability"", ""789"": ""probability"", ""232"": ""interpreting-numberline""}"
+"{""1187"": ""area"", ""1188"": ""perimeter"", ""1189"": ""area"", ""215"": ""inequality-solving"", ""559"": ""multiplication"", ""470"": ""exponents"", ""16"": ""inducing-functions"", ""33"": ""pattern-finding"", ""34"": ""pattern-finding"", ""35"": ""pattern-finding"", ""58"": ""evaluating-functions"", ""175"": ""inducing-functions"", ""72"": ""inducing-functions"", ""73"": ""inducing-functions"", ""74"": ""inducing-functions"", ""733"": ""probability"", ""837"": ""least-common-multiple"", ""838"": ""least-common-multiple"", ""110"": ""pattern-finding"", ""213"": ""interpreting-numberline"", ""214"": ""interpreting-numberline"", ""1"": ""algebraic-manipulation"", ""2"": ""sum-of-interior-angles-triangle"", ""3"": ""algebraic-manipulation"", ""5"": ""sum-of-interior-angles-triangle""}"
+"{""1214"": ""triangle-inequality"", ""1303"": ""substitution"", ""1304"": ""substitution"", ""1167"": ""square-root""}"
+"{""2261"": ""mean"", ""2262"": ""mean"", ""2263"": ""mean"", ""14"": ""reading-graph"", ""15"": ""reading-graph"", ""960"": ""multiplying-decimals"", ""961"": ""multiplying-decimals"", ""962"": ""multiplying-decimals"", ""963"": ""multiplying-decimals"", ""1097"": ""reading-graph"", ""1098"": ""reading-graph"", ""1099"": ""reading-graph"", ""4504"": ""probability"", ""4505"": ""probability"", ""4506"": ""probability"", ""4556"": ""area"", ""4557"": ""area"", ""4558"": ""area"", ""878"": ""percent-of"", ""876"": ""discount"", ""877"": ""discount"", ""989"": ""graph-shape"", ""990"": ""graph-shape"", ""118"": ""proportion"", ""119"": ""proportion"", ""2256"": ""mode"", ""2257"": ""reading-graph"", ""2258"": ""reading-graph"", ""2259"": ""mode"", ""9677"": ""noskill"", ""9678"": ""noskill"", ""560"": ""subtraction"", ""561"": ""multiplication"", ""562"": ""subtraction"", ""563"": ""evaluating-functions""}"
+"{""4536"": ""interpreting-linear-equations"", ""4537"": ""interpreting-linear-equations"", ""4538"": ""interpreting-linear-equations"", ""4539"": ""interpreting-linear-equations"", ""4540"": ""interpreting-linear-equations"", ""978"": ""noskill"", ""979"": ""noskill"", ""992"": ""graph-shape"", ""993"": ""graph-shape"", ""994"": ""graph-shape"", ""995"": ""graph-shape"", ""996"": ""graph-shape""}"
+{}
+"{""58"": ""supplementary-angles"", ""59"": ""transversals"", ""60"": ""isosceles-triangle"", ""4419"": ""rate-with-distance-and-time"", ""4420"": ""rate-with-distance-and-time""}"
+"{""1303"": ""area"", ""1304"": ""area"", ""1305"": ""area"", ""1010"": ""graph-shape"", ""1011"": ""graph-shape"", ""1012"": ""graph-shape"", ""1164"": ""p-patterns-relations-algebra"", ""1165"": ""p-patterns-relations-algebra"", ""1166"": ""p-patterns-relations-algebra"", ""1311"": ""transformations-rotations"", ""1312"": ""transformations-rotations"", ""1313"": ""transformations-rotations"", ""72"": ""transversals"", ""73"": ""supplementary-angles"", ""4384"": ""unit-conversion"", ""4385"": ""unit-conversion"", ""4386"": ""unit-conversion"", ""4387"": ""unit-conversion"", ""1155"": ""equation-concept"", ""1156"": ""p-patterns-relations-algebra"", ""1157"": ""equation-concept"", ""1158"": ""equation-concept"", ""1682"": ""inducing-functions"", ""1683"": ""inducing-functions"", ""1684"": ""inducing-functions"", ""1685"": ""inducing-functions"", ""1686"": ""inducing-functions"", ""1688"": ""inducing-functions"", ""1689"": ""inducing-functions"", ""1690"": ""inducing-functions"", ""1691"": ""inducing-functions"", ""1692"": ""inducing-functions"", ""1693"": ""inducing-functions"", ""1694"": ""inducing-functions"", ""1695"": ""inducing-functions"", ""1696"": ""inducing-functions"", ""1139"": ""point-plotting"", ""1137"": ""point-plotting"", ""1138"": ""point-plotting"", ""9667"": ""rate-with-distance-and-time"", ""9666"": ""rate-with-distance-and-time""}"
+"{""183"": ""triangle-inequality"", ""184"": ""triangle-inequality"", ""1003"": ""reading-graph"", ""1004"": ""reading-graph"", ""1005"": ""reading-graph"", ""246"": ""supplementary-angles"", ""247"": ""transversals"", ""1"": ""point-plotting"", ""2"": ""point-plotting"", ""3"": ""point-plotting"", ""470"": ""division"", ""472"": ""symbolization-articulation"", ""2713"": ""interpreting-linear-equations"", ""2714"": ""interpreting-linear-equations"", ""2715"": ""interpreting-linear-equations"", ""132"": ""area"", ""133"": ""perimeter"", ""134"": ""area"", ""135"": ""area"", ""727"": ""addition"", ""728"": ""addition"", ""729"": ""addition"", ""730"": ""addition"", ""731"": ""inducing-functions"", ""732"": ""equation-solving"", ""1662"": ""reading-graph"", ""1663"": ""fractions"", ""1664"": ""reading-graph"", ""1665"": ""reading-graph"", ""1666"": ""reading-graph"", ""1667"": ""fractions"", ""1668"": ""reading-graph"", ""1669"": ""reading-graph"", ""1670"": ""reading-graph"", ""1671"": ""fractions"", ""1672"": ""reading-graph"", ""1673"": ""reading-graph"", ""175"": ""reading-graph"", ""176"": ""reading-graph"", ""177"": ""reading-graph"", ""9400"": ""combinatorics"", ""9401"": ""combinatorics"", ""9681"": ""evaluating-functions"", ""9682"": ""evaluating-functions"", ""9683"": ""evaluating-functions"", ""9663"": ""supplementary-angles""}"
+"{""9664"": ""supplementary-angles"", ""9665"": ""sum-of-interior-angles-triangle"", ""2695"": ""multiplication"", ""2696"": ""unit-conversion"", ""2697"": ""evaluating-functions"", ""965"": ""discount"", ""966"": ""percent-of"", ""967"": ""discount"", ""998"": ""graph-shape"", ""999"": ""graph-shape"", ""1000"": ""graph-shape"", ""1001"": ""graph-shape"", ""1028"": ""p-patterns-relations-algebra"", ""1029"": ""p-patterns-relations-algebra"", ""1030"": ""p-patterns-relations-algebra"", ""9661"": ""linear-area-volume-conversion"", ""9662"": ""linear-area-volume-conversion"", ""2230"": ""mean"", ""2231"": ""mean"", ""2232"": ""mean"", ""2233"": ""mean"", ""2234"": ""mean"", ""2235"": ""mean"", ""2240"": ""median"", ""2241"": ""ordering-numbers"", ""2242"": ""mean"", ""2243"": ""median"", ""2105"": ""least-common-multiple"", ""2102"": ""least-common-multiple"", ""2103"": ""least-common-multiple"", ""2104"": ""least-common-multiple"", ""2712"": ""interpreting-linear-equations"", ""837"": ""scientific-notation"", ""838"": ""scientific-notation""}"
+"{""1056"": ""median"", ""1057"": ""median"", ""1058"": ""simple-calculation"", ""2226"": ""scientific-notation"", ""2227"": ""scientific-notation"", ""2228"": ""scientific-notation""}"
+"{""1132"": ""supplementary-angles"", ""993"": ""interpreting-linear-equations"", ""995"": ""interpreting-linear-equations"", ""994"": ""interpreting-linear-equations"", ""893"": ""median"", ""894"": ""mean""}"
+{}
+"{""1155"": ""multiplying-decimals"", ""1156"": ""multiplying-decimals"", ""433"": ""ordering-numbers"", ""560"": ""multiplication"", ""562"": ""multiplication"", ""563"": ""multiplication"", ""234"": ""interpreting-numberline"", ""236"": ""inequality-solving"", ""237"": ""interpreting-numberline"", ""238"": ""inequality-solving"", ""239"": ""inequality-solving"", ""1038"": ""evaluating-functions"", ""1001"": ""interpreting-linear-equations"", ""1002"": ""interpreting-linear-equations"", ""1003"": ""interpreting-linear-equations"", ""1004"": ""interpreting-linear-equations"", ""1005"": ""interpreting-linear-equations"", ""989"": ""interpreting-linear-equations"", ""990"": ""interpreting-linear-equations"", ""991"": ""interpreting-linear-equations"", ""992"": ""interpreting-linear-equations"", ""996"": ""interpreting-linear-equations"", ""1012"": ""point-plotting"", ""1013"": ""point-plotting"", ""1010"": ""interpreting-linear-equations"", ""1011"": ""interpreting-linear-equations""}"
+"{""1433"": ""n-number-sense-operations"", ""1434"": ""n-number-sense-operations"", ""1435"": ""n-number-sense-operations"", ""2214"": ""finding-percents"", ""2215"": ""finding-percents"", ""2216"": ""finding-percents"", ""2217"": ""finding-percents"", ""9789"": ""interpreting-linear-equations"", ""9790"": ""interpreting-linear-equations"", ""9791"": ""interpreting-linear-equations"", ""9792"": ""interpreting-linear-equations""}"
+"{""171"": ""area"", ""172"": ""perimeter"", ""173"": ""perimeter"", ""2078"": ""probability"", ""2079"": ""probability"", ""9684"": ""equation-solving""}"
+"{""163"": ""discount"", ""164"": ""discount"", ""165"": ""discount"", ""1093"": ""reading-graph"", ""1094"": ""reading-graph"", ""1095"": ""reading-graph""}"
+{}
+{}
+"{""246"": ""interpreting-numberline"", ""786"": ""probability"", ""787"": ""probability"", ""788"": ""probability""}"
+{}
+{}
+"{""472"": ""exponents"", ""219"": ""inequality-solving"", ""220"": ""inequality-solving"", ""221"": ""inequality-solving"", ""1057"": ""evaluating-functions"", ""1058"": ""multiplication"", ""1059"": ""unit-conversion"", ""997"": ""equation-solving"", ""998"": ""equation-solving"", ""999"": ""equation-solving""}"
+{}
+"{""2106"": ""probability"", ""2107"": ""probability"", ""2108"": ""probability"", ""2109"": ""probability"", ""1319"": ""transformations-rotations""}"
+"{""1157"": ""multiplying-decimals"", ""1158"": ""multiplying-decimals"", ""1159"": ""multiplying-decimals"", ""850"": ""median"", ""851"": ""median"", ""852"": ""mean"", ""910"": ""reading-graph"", ""911"": ""reading-graph"", ""912"": ""reading-graph"", ""860"": ""scientific-notation"", ""861"": ""scientific-notation"", ""862"": ""scientific-notation"", ""863"": ""scientific-notation"", ""864"": ""scientific-notation"", ""865"": ""scientific-notation""}"
+"{""405"": ""substitution"", ""406"": ""substitution"", ""407"": ""substitution"", ""408"": ""substitution""}"
+"{""727"": ""multiplying-decimals"", ""247"": ""inequality-solving"", ""248"": ""p-patterns-relations-algebra"", ""14"": ""pattern-finding"", ""15"": ""pattern-finding""}"
+"{""164"": ""pattern-finding"", ""165"": ""pattern-finding"", ""166"": ""pattern-finding"", ""183"": ""equation-solving"", ""184"": ""symbolization-articulation"", ""185"": ""symbolization-articulation"", ""36"": ""inducing-functions"", ""37"": ""pattern-finding"", ""38"": ""pattern-finding"", ""39"": ""pattern-finding"", ""40"": ""pattern-finding"", ""41"": ""p-patterns-relations-algebra"", ""115"": ""division"", ""116"": ""division"", ""117"": ""division"", ""118"": ""division"", ""119"": ""division"", ""120"": ""pattern-finding"", ""235"": ""inequality-solving""}"
+{}
+"{""935"": ""median"", ""936"": ""stem-and-leaf-plot"", ""876"": ""scientific-notation"", ""877"": ""scientific-notation"", ""878"": ""scientific-notation"", ""879"": ""scientific-notation"", ""1040"": ""evaluating-functions"", ""1041"": ""evaluating-functions"", ""132"": ""pattern-finding"", ""133"": ""pattern-finding"", ""134"": ""pattern-finding"", ""135"": ""pattern-finding"", ""136"": ""pattern-finding""}"
+{}
+"{""890"": ""square-root"", ""891"": ""square-root"", ""892"": ""square-root"", ""893"": ""square-root"", ""33"": ""square-root"", ""34"": ""square-root"", ""35"": ""square-root"", ""36"": ""square-root"", ""37"": ""square-root"", ""38"": ""square-root"", ""39"": ""square-root"", ""40"": ""square-root"", ""1296"": ""properties-of-geometric-figures"", ""1297"": ""area-of-circle"", ""1298"": ""area-of-circle"", ""1299"": ""area"", ""1300"": ""area""}"
+{}
+{}
+{}
+"{""933"": ""reading-graph"", ""934"": ""mode"", ""853"": ""median""}"
+"{""405"": ""graph-shape"", ""406"": ""graph-shape"", ""407"": ""graph-shape"", ""408"": ""graph-shape"", ""409"": ""graph-shape"", ""474"": ""interpreting-numberline"", ""564"": ""reading-graph"", ""171"": ""algebraic-manipulation"", ""172"": ""symbolization-articulation"", ""173"": ""algebraic-manipulation"", ""174"": ""equation-concept"", ""434"": ""area"", ""435"": ""area"", ""436"": ""graph-shape""}"
+"{""2064"": ""probability"", ""2065"": ""probability"", ""2066"": ""probability"", ""2067"": ""probability"", ""910"": ""making-sense-of-expressions-and-equations"", ""911"": ""making-sense-of-expressions-and-equations""}"
+{}
+{}
+{}
+"{""111"": ""pattern-finding"", ""112"": ""pattern-finding"", ""113"": ""pattern-finding"", ""114"": ""pattern-finding""}"
+{}
+{}
+"{""59"": ""multiplication"", ""176"": ""pattern-finding"", ""177"": ""pattern-finding"", ""178"": ""symbolization-articulation""}"
+{}
+"{""9685"": ""equation-solving""}"
+"{""220"": ""inducing-functions"", ""219"": ""inducing-functions"", ""221"": ""inducing-functions""}"
+"{""9686"": ""area-of-circle"", ""9687"": ""area-of-circle"", ""8710"": ""noskill"", ""4084"": ""noskill"", ""2201"": ""median"", ""9086"": ""noskill""}"
+{}
+{}
+"{""60"": ""subtraction"", ""61"": ""multiplication""}"
+{}
+"{""3520"": ""equation-solving"", ""3521"": ""equation-solving""}"
+{}
+{}
+{}
+{}
+{}
+{}
+"{""111"": ""square-root"", ""110"": ""square-root"", ""112"": ""square-root"", ""113"": ""square-root"", ""114"": ""square-root"", ""115"": ""square-root"", ""116"": ""square-root""}"
+{}
+{}
+"{""2081"": ""probability"", ""2082"": ""probability"", ""2083"": ""probability""}"
+{}
+"{""1369"": ""noskill"", ""1370"": ""noskill""}"
+{}
+"{""9087"": ""noskill"", ""9088"": ""noskill"", ""9089"": ""noskill""}"
+{}
+{}
+{}
+{}
+"{""2717"": ""point-plotting"", ""2718"": ""point-plotting"", ""9793"": ""point-plotting"", ""9794"": ""point-plotting""}"
+{}
+{}
+{}
+"{""1214"": ""noskill"", ""1215"": ""noskill"", ""1216"": ""noskill"", ""1217"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+"{""1126"": ""unit-conversion"", ""1127"": ""unit-conversion""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""4072"": ""noskill"", ""4556"": ""noskill"", ""4557"": ""noskill"", ""4558"": ""noskill""}"
+"{""784"": ""probability""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""1128"": ""unit-conversion"", ""1129"": ""unit-conversion"", ""1130"": ""unit-conversion"", ""1131"": ""unit-conversion""}"
+{}
+{}
+{}
+{}
+{}
+{}
+"{""8882"": ""noskill"", ""8883"": ""noskill"", ""8884"": ""noskill"", ""8885"": ""noskill"", ""8886"": ""noskill"", ""9122"": ""noskill"", ""9514"": ""noskill"", ""9515"": ""noskill"", ""9516"": ""noskill"", ""9517"": ""noskill"", ""8303"": ""noskill"", ""8304"": ""noskill"", ""8305"": ""noskill"", ""8306"": ""noskill"", ""10036"": ""noskill"", ""10037"": ""noskill"", ""10038"": ""noskill"", ""10039"": ""noskill""}"
+"{""2197"": ""stem-and-leaf-plot"", ""2198"": ""median"", ""2199"": ""median"", ""2200"": ""median"", ""9167"": ""pattern-finding"", ""4067"": ""noskill"", ""4064"": ""noskill"", ""4065"": ""noskill"", ""4066"": ""noskill"", ""4058"": ""noskill""}"
+{}
+"{""9649"": ""noskill"", ""9650"": ""noskill""}"
+{}
+{}
+"{""2043"": ""noskill"", ""2041"": ""noskill"", ""2042"": ""noskill"", ""8621"": ""noskill"", ""8622"": ""noskill"", ""8623"": ""noskill"", ""8624"": ""noskill"", ""2007"": ""noskill"", ""2005"": ""noskill"", ""2006"": ""noskill"", ""4262"": ""noskill"", ""4260"": ""noskill"", ""4261"": ""noskill"", ""4267"": ""noskill""}"
+{}
+"{""8715"": ""noskill"", ""8716"": ""noskill"", ""8717"": ""noskill"", ""4052"": ""noskill"", ""4047"": ""noskill""}"
+"{""4048"": ""noskill"", ""4049"": ""noskill"", ""4050"": ""noskill"", ""4051"": ""noskill"", ""4056"": ""noskill"", ""4057"": ""noskill""}"
+"{""9168"": ""pattern-finding""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""1006"": ""interpreting-linear-equations""}"
+{}
+{}
+{}
+"{""8979"": ""noskill"", ""8980"": ""noskill"", ""8981"": ""noskill"", ""9894"": ""noskill"", ""9887"": ""noskill"", ""9888"": ""noskill"", ""9889"": ""noskill"", ""9890"": ""noskill"", ""9871"": ""noskill"", ""9885"": ""noskill"", ""9886"": ""noskill"", ""9869"": ""noskill"", ""9870"": ""noskill"", ""9873"": ""noskill"", ""9875"": ""noskill"", ""9877"": ""noskill""}"
+"{""2146"": ""probability"", ""2147"": ""probability"", ""2148"": ""probability"", ""1316"": ""transformations-rotations"", ""1317"": ""transformations-rotations"", ""1318"": ""transformations-rotations""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""890"": ""fraction-decimals-percents"", ""891"": ""fraction-decimals-percents"", ""892"": ""fraction-decimals-percents""}"
+"{""221"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""4504"": ""noskill"", ""4505"": ""noskill"", ""4506"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+"{""9162"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""8582"": ""noskill"", ""8583"": ""noskill"", ""8584"": ""noskill"", ""8585"": ""noskill"", ""8586"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""876"": ""noskill"", ""877"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""9090"": ""percent-of"", ""13209"": ""noskill"", ""9123"": ""noskill"", ""9124"": ""noskill"", ""9125"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""11982"": ""noskill"", ""11980"": ""noskill"", ""4081"": ""noskill"", ""4082"": ""noskill"", ""4083"": ""noskill""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+"{""1000"": ""equation-solving""}"
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
