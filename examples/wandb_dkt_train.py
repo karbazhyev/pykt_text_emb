@@ -1,6 +1,10 @@
 import argparse
 from wandb_train import main
 
+#import tpu stuff
+
+#define a map function
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset_name", type=str, default="assist2015")
@@ -22,3 +26,5 @@ if __name__ == "__main__":
 
     params = vars(args)
     main(params)
+
+#start tpu multiprocessing with spawn function

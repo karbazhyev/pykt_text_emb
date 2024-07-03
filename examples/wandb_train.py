@@ -12,6 +12,9 @@ from pykt.utils import debug_print,set_seed
 from pykt.datasets import init_dataset4train
 import datetime
 
+#import tpu stuff
+
+#change the lines below? need to setup tpu configuration i think? 
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
 device = "cpu" if not torch.cuda.is_available() else "cuda"
 os.environ['CUBLAS_WORKSPACE_CONFIG']=':4096:2'
@@ -22,6 +25,7 @@ def save_config(train_config, model_config, data_config, params, save_dir):
     with open(save_path, "w") as fout:
         json.dump(d, fout)
 
+#rename this? also add index parameter?
 def main(params):
     if "use_wandb" not in params:
         params['use_wandb'] = 1
@@ -154,3 +158,10 @@ def main(params):
     if params['use_wandb']==1:
         wandb.log({ 
                     "validauc": validauc, "validacc": validacc, "best_epoch": best_epoch,"model_save_path":model_save_path})
+
+#no shot i add a main function right, i just leave it like this
+
+# python generate_wandb.py --dateaset_names "assist2009" --project_name full_384 --model_names "dkt"
+# sh all_start.sh > log.all 2>&1
+# sh run_all.sh log.all 0 5 assist2009 dkt 0.1.2.3.4 full_384
+# sh start_sweep_0_5.sh
