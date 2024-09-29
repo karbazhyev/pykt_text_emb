@@ -9,7 +9,7 @@ assist_df = pd.read_csv('/Users/kiakarbasi/pykt_emb_chef/pykt-toolkit-pt_emb/emb
 pb_df = pd.read_csv('/Users/kiakarbasi/pykt_emb_chef/pykt-toolkit-pt_emb/embeddings/data/problem_bodies/ProblemBodies_23.csv', low_memory=False)
 
 
-questions = assist_df['problem_id'].unique()
+# questions = assist_df['problem_id'].unique()
 assist_df['skill_id'].unique()
 
 skill_to_problems = {}
