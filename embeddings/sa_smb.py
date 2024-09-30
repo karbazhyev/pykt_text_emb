@@ -11,3 +11,24 @@ def sa_stacked(emb_tensor, correct_emb, incorrect_emb):
     # Concatenate along the last dimension
     stacked_tensor = torch.cat([emb_tensor, correct_emb_expanded], dim=1)
     return stacked_tensor
+
+
+
+def get_mirror_embeddings(emb_tensor):
+    import json
+    import torch
+    for data in emb_tensor:
+        emb = torch.tensor([x * -1 for x in emb_tensor])
+        # emb = torch.reshape(emb, (1, emb_dim))
+        emb_tensor = torch.cat((emb_tensor, emb), dim=0)
+    return emb_tensor
+
+def get_mirror_embeddings(emb_tensor):
+    import json
+    import torch
+    for data in emb_tensor:
+        emb = torch.tensor([x * -1 for x in emb_tensor])
+        # emb = torch.reshape(emb, (1, emb_dim))
+        emb_tensor = torch.cat((emb_tensor, emb), dim=0)
+    return emb_tensor
+
