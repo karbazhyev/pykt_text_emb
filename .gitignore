@@ -63,3 +63,7 @@ examples/*.txt
 examples/nips2022-peiyou/
 examples/nips2022-ednet/
 examples/models/
+embeddings/data/
+**/.DS_Store
+embeddings/client_secret_908407781448-veo2rnleorf7om25odqkte32anmmkn4q.apps.googleusercontent.com.json
+embeddings/config/*
