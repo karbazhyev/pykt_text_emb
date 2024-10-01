@@ -32,3 +32,5 @@ def get_mirror_embeddings(emb_tensor):
         emb_tensor = torch.cat((emb_tensor, emb), dim=0)
     return emb_tensor
 
+def get_add_word_embeddings(emb_tensor, word_emb):
+    pass
